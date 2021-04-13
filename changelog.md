@@ -2,13 +2,7 @@
 Official corsair V2 Update log
 
 ------------------------------
-  #   #             ###   #       
- ##   #    #       #   #  #    #  
-# #   #    #      #     # #    #  
-  #   #    #      #     # #    #  
-  #   ####### ### #     # ####### 
-  #        #  ###  #   #       #  
-#####      #  ###   ###        #  
+14.04
                                   
 - Added new & better menu
 - Added "Semi-rage" Subtab
