@@ -22,3 +22,4 @@ Official corsair V2 Update log
 - Added Visuals -> General Features
 - Now eventlogs logs the map where you connected
 - Fixed sliderint not showing values correctly 
+- Fixed coloredit4
