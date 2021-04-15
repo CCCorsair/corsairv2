@@ -14,7 +14,7 @@ Official corsair V2 Update log
 15.04
 
 - Added the rest of subtabs 
-- Added new shadow for GUI
+- Added & Recolored shadow for GUI
 - Added background blur for GUI
 - Added basic semi-rage features 
 - Added & Improved RCS from V1 
@@ -23,3 +23,6 @@ Official corsair V2 Update log
 - Now eventlogs logs the map where you connected
 - Fixed sliderint not showing values correctly 
 - Fixed coloredit4
+- Added own groupboxes for thirdperson & settings / client & server sided bullet impacts & tracers
+-  * Added groupbox for viewmodel changers 
+- Reworked sliderfloat 
