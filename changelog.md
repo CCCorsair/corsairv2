@@ -19,3 +19,5 @@ Official corsair V2 Update log
 - Added basic semi-rage features 
 - Added & Improved RCS from V1 
 - Remade the fonts 
+- Added Visuals -> General Features
+- Now eventlogs logs the map where you connected
