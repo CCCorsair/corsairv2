@@ -23,6 +23,7 @@ Official corsair V2 Update log
 - Now eventlogs logs the map where you connected
 - Fixed sliderint not showing values correctly 
 - Fixed coloredit4
-- Added own groupboxes for thirdperson & settings / client & server sided bullet impacts & tracers
+- Added groupboxes
   * Added groupbox for viewmodel changers 
+  * Added groupbox for thirdperson & client, server sided bullet impacts & tracers
 - Reworked sliderfloat 
