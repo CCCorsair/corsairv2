@@ -11,3 +11,11 @@ Official corsair V2 Update log
 - Improved sliders, combos, keybinds, buttons elements
                                
                                                     
+15.04
+
+- Added the rest of subtabs 
+- Added new shadow for GUI
+- Added background blur for GUI
+- Added basic semi-rage features 
+- Added & Improved RCS from V1 
+- Remade the fonts 
