@@ -24,5 +24,5 @@ Official corsair V2 Update log
 - Fixed sliderint not showing values correctly 
 - Fixed coloredit4
 - Added own groupboxes for thirdperson & settings / client & server sided bullet impacts & tracers
--  * Added groupbox for viewmodel changers 
+  * Added groupbox for viewmodel changers 
 - Reworked sliderfloat 
