@@ -20,10 +20,27 @@ Official corsair V2 Update log
 - Added & Improved RCS from V1 
 - Remade the fonts 
 - Added Visuals -> General Features
+  * Added fix for molotov range
 - Now eventlogs logs the map where you connected
 - Fixed sliderint not showing values correctly 
 - Fixed coloredit4
-- Added groupboxes
+- Added groupboxes for General subtab
   * Added groupbox for viewmodel changers 
   * Added groupbox for thirdperson & client, server sided bullet impacts & tracers
 - Reworked sliderfloat 
+
+
+16.04 
+
+- Added Visuals -> Players features
+  * Fixed bounding box from breaking when looking at ground 
+- Added Visuals -> World features
+- Added Visuals -> More features
+
+
+17.04
+- Fixed cheat for latest game update
+- Updated groupboxes for visuals to make everything smoother and better to understand 
+- Added groupboxes for Players subtab
+- Added Grenade Helper (prototype)
+- Made movement recorder concept / draft
