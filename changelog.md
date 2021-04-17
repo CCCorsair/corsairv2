@@ -1,5 +1,5 @@
 # corsairv2
-Official corsair V2 Update log
+Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
 
 ------------------------------
 14.04
