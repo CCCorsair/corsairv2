@@ -46,4 +46,4 @@ Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
   * Created data for Dust2 & Inferno & Mirage
 - Made movement recorder concept / draft
 - Added & Improved config system
-
+- Added Backtracking & Backtrack ticks 
