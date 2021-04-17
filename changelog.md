@@ -46,4 +46,12 @@ Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
   * Created data for Dust2 & Inferno & Mirage
 - Made movement recorder concept / draft
 - Added & Improved config system
-- Added Backtracking & Backtrack ticks 
+- Added Backtracking & Backtrack ticks (concept) 
+
+
+18.04
+- Improved comboboxes
+- Fixed molotov inferno radius not working
+- Added desync 
+ * Added desync types
+ * Added desync flip
