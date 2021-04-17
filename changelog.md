@@ -43,4 +43,7 @@ Official corsair V2 Update log
 - Updated groupboxes for visuals to make everything smoother and better to understand 
 - Added groupboxes for Players subtab
 - Added Grenade Helper (prototype)
+  * Created data for Dust2 & Inferno & Mirage
 - Made movement recorder concept / draft
+- Added & Improved config system
+
