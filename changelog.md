@@ -52,6 +52,7 @@ Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
 18.04
 - Improved comboboxes
 - Fixed molotov inferno radius not working
-- Added desync 
- * Added desync types
- * Added desync flip
+- Added decync legit antiaim 
+  * Added desync types
+  * Added desync flip
+    * keybind support for desync flip
