@@ -58,3 +58,10 @@ Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
     * Keybind support for desync flip
   * Added desync chams
     * Improved chams
+- Added Skeleton ESP 
+- Added footsteps 
+  * Added proper thickness & radius 
+- Added Weapon ESP
+  * Added ICONS for weapon esp 
+- Added Flags 
+  * Added "Money, Armor, Scoped, Bomb carrier, defuse kit"
