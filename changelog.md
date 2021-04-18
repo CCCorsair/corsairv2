@@ -55,4 +55,6 @@ Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
 - Added decync legit antiaim 
   * Added desync types
   * Added desync flip
-    * keybind support for desync flip
+    * Keybind support for desync flip
+  * Added desync chams
+    * Improved chams
