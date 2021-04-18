@@ -1,6 +1,8 @@
 # corsairv2
 Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
 
+Font used on grenade esp icons: [undefeated.zip](https://github.com/CCCorsair/corsairv2/files/6331950/undefeated.zip)
+
 ------------------------------
 14.04
                                   
@@ -66,4 +68,13 @@ Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
 - Added Flags 
   * Added "Money, Armor, Scoped, Bomb carrier, defuse kit"
 - Now when enabling ragebot, legitbot gets disabled automaticylly 
+- Now legitbot detects which weapon you are holding 
+- Added Snap Lines
+- Added chams:
+  * Basic enemy, team, local chams
+  * Ragdoll chams
+  * Hands, sleeves & gun chams
+- Added chams materials 
+
+
 
