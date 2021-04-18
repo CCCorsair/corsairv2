@@ -65,3 +65,5 @@ Official corsair V2 Update log (CHEAT IS NOT YET RELEASED, PLEASE BE PATIENT)
   * Added ICONS for weapon esp 
 - Added Flags 
   * Added "Money, Armor, Scoped, Bomb carrier, defuse kit"
+- Now when enabling ragebot, legitbot gets disabled automaticylly 
+
