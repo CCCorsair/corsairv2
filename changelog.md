@@ -99,3 +99,13 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 - Added chams: 
   * Basic enemy, team, local chams * Ragdoll chams * Hands, sleeves & gun chams 
 - Added chams materials
+
+19.04
+
+~ GUI changes:
+- Now combobox matches with multicombobox
+
+~ Visuals changes: 
+- When toggled remove scope, now you have chance to remove scope transparency
+ * Added Slider for remove scope transparency 
+- Added glow esp
