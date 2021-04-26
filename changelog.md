@@ -99,3 +99,11 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 - Added chams: 
   * Basic enemy, team, local chams * Ragdoll chams * Hands, sleeves & gun chams 
 - Added chams materials
+
+26.04 
+
+~ Cheat changes:
+- Improved legitbot stability
+
+~ GUI changes: 
+- Removed some subtabs due to too much space 
