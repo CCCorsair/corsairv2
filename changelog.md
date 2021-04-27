@@ -107,3 +107,12 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 
 ~ GUI changes: 
 - Removed some subtabs due to too much space 
+
+27.04
+
+~ Visuals changes:
+- Added "World changer" features
+  * Added & fixed rain feature from V1
+  * Added thundering
+  * Added skybox changer & color changer
+  * Added Color & World & Fog color changer
