@@ -116,3 +116,9 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
   * Added thundering
   * Added skybox changer & color changer
   * Added Color & World & Fog color changer
+
+28.04
+
+~ Visuals changes:
+- Added original watermark from V1
+- Added original spectator list from V1
