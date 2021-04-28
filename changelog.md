@@ -122,3 +122,5 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 ~ Visuals changes:
 - Added original watermark from V1
 - Added original spectator list from V1
+  * Fixed the spectator list not working correctly after moved the position of the listbox
+
