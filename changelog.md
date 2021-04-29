@@ -124,3 +124,12 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 - Added original spectator list from V1
   * Fixed the spectator list not working correctly after moved the position of the listbox
 
+29.04
+
+~ Cheat changes: 
+- Improved legitbot stability 
+- Fixed most of the lag problems 
+
+~ Misc changes:
+- Added basic movement features
+- Added velocity graph from V1
