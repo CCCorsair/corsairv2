@@ -139,3 +139,7 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 ~ Cheat changes:
 - Removed PhysicsSimulate due to newest update 
 - Cleaned the solution
+
+~ Visuals changes: 
+- Remade visuals tabs
+  * Saved FPS by adding world features with general tab
