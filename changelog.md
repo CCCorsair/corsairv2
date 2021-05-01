@@ -146,3 +146,13 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 - Remade visuals tabs
   * Saved FPS by adding world features with general tab
 - Made Bullet impacts look more smoother
+
+~ Misc changes:
+- Added misc features
+  * anti-untrusted
+  * gravity ragdolls
+  * preserver killfeed
+  * aspect ratio
+  * fakelag
+   * legit fakelag
+    * 10 limit
