@@ -155,4 +155,4 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
   * aspect ratio
   * fakelag
    * legit fakelag
-    * 10 limit
+   
