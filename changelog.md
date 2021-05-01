@@ -156,3 +156,5 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
   * fakelag
    * legit fakelag
    
+~ Cheat changes:
+- Fixed hitsounds
