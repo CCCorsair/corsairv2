@@ -166,3 +166,4 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 - Added Skins & inventory changer
 - Added profile changer (prototype)
 - Added skin image preview
+- Added rarity feature
