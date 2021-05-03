@@ -159,3 +159,9 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
    
 ~ Cheat changes:
 - Fixed hitsounds
+
+03.05
+
+~ Skinchanger changes:
+- Added Skins & inventory changer
+- Added profile changer (prototype)
