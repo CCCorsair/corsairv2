@@ -172,3 +172,4 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 
 ~ Misc changes:
 - Added Radar 
+- Added fully functional buybot 
