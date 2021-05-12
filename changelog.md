@@ -171,5 +171,12 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 11.05
 
 ~ Misc changes:
-- Added Radar 
+- Added Engine Radar 
 - Added fully functional buybot 
+
+12.05
+
+~ Misc changes:
+- Added Anti-Screenshoot
+- Added Clantag
+- Added Chatspam
