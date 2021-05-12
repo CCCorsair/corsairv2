@@ -177,6 +177,6 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 12.05
 
 ~ Misc changes:
-- Added Anti-Screenshoot
+- Added Anti-Screenshot
 - Added Clantag
 - Added Chatspam
