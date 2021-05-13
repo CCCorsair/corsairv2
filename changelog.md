@@ -194,7 +194,7 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 - Added Slide walk
 - Added Unlimited duck stamina
 - Added Edgejump 
-
+- Added Velocity Graph
 
 ~ Menu changes:
 - Removed unnecessary subtabs
