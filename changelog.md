@@ -186,6 +186,15 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 ~ Misc changes:
 - Fixed aspect ratio slider
 - Fixed console output
+- Added Automatic jump
+- Added auto starfer 
+  * Legit starfer
+  * wasd key movement starfer
+- Added Chrouch in air
+- Added Slide walk
+- Added Unlimited duck stamina
+- Added Edgejump 
+
 
 ~ Menu changes:
 - Removed unnecessary subtabs
