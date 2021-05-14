@@ -198,3 +198,10 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 
 ~ Menu changes:
 - Removed unnecessary subtabs
+
+14.05
+
+~ Misc changes:
+- Added ragdolls modifier 
+  * Gravity ragdolls
+  * Force ragdolls
