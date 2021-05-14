@@ -205,3 +205,4 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
 - Added ragdolls modifier 
   * Gravity ragdolls
   * Force ragdolls
+- Added Walkbot prototype
