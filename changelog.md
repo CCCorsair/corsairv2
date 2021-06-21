@@ -206,3 +206,11 @@ Font used on grenade & Weapon esp icons: [undefeated.zip](https://github.com/CCC
   * Gravity ragdolls
   * Force ragdolls
 - Added Walkbot prototype
+
+21.06
+
+~ Cheat changes:
+- Improved cheat stability by updating the code
+
+~ Skinchanger changes:
+- Added brand new skinchanger
